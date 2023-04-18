@@ -1,0 +1,8 @@
+include GENERIC
+ident   SUPERIO
+
+device      superio
+device      gpio
+device      gpioled
+device      nctgpio
+device      ncthwm
